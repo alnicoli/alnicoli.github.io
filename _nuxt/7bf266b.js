@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{256:function(e){e.exports=JSON.parse('{"form":{"questions":{"vehicle":{"question":"Benötigst Du eine Ladestation für dein \\u2028\\nAuto oder Fahrrad?"}}}}')}}]);
